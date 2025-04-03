@@ -26,6 +26,7 @@ ColGit es una aplicación web moderna que combina control de versiones, gestión
 ## 🛠️ Tecnologías Utilizadas
 
 - **Frontend**:
+
   - Next.js 13 (App Router)
   - React 18
   - TypeScript
@@ -33,10 +34,12 @@ ColGit es una aplicación web moderna que combina control de versiones, gestión
   - shadcn/ui components
 
 - **Backend**:
+
   - Next.js API Routes
   - Arquitectura Hexagonal (Puertos y Adaptadores)
 
 - **Autenticación**:
+
   - Sistema de autenticación personalizado
   - Soporte para proveedores externos (Google, GitHub)
 
@@ -50,7 +53,6 @@ ColGit es una aplicación web moderna que combina control de versiones, gestión
 - npm 6.x o superior
 - Conexión a Internet para funcionalidades de IA y colaboración
 
-
 ## 🌐 Arquitectura
 
 ColGit implementa una arquitectura hexagonal (también conocida como arquitectura de puertos y adaptadores) para facilitar la escalabilidad, mantenibilidad y pruebas del código. Esta arquitectura separa claramente las preocupaciones y permite que la lógica de negocio sea independiente de los detalles de implementación.
@@ -63,7 +65,6 @@ La arquitectura se divide en tres capas principales:
 2. **Puertos**: Interfaces que definen cómo se comunica el dominio con el exterior.
 3. **Adaptadores**: Implementaciones concretas de los puertos que conectan el dominio con tecnologías específicas.
 
-
 ## 👥 Contribuciones
 
 ### Proceso de Contribución
@@ -72,34 +73,24 @@ ColGit es un proyecto propietario con licencia Commons Clause + Apache 2.0. Ante
 
 1. **Acuerdo de Licencia de Contribuyente (CLA)**: Todos los contribuyentes deben firmar nuestro CLA, que otorga a YouBriefSoft los derechos necesarios sobre las contribuciones.
 2. **Proceso de Pull Request**:
-
-1. Crea un fork del repositorio
-2. Crea una rama para tu característica o corrección
-3. Envía un pull request con una descripción clara
-4. Asegúrate de que tu código sigue nuestras guías de estilo
-
-
-
+   - Crea un fork del repositorio.
+   - Crea una rama para tu característica o corrección.
+   - Envía un pull request con una descripción clara.
+   - Asegúrate de que tu código sigue nuestras guías de estilo.
 3. **Guías de Código**:
-
-1. Usa TypeScript para todo el código
-2. Sigue las convenciones de estilo establecidas
-3. Incluye pruebas para nuevas características
-4. Documenta tu código adecuadamente
-
-
-
-
+   - Usa TypeScript para todo el código.
+   - Sigue las convenciones de estilo establecidas.
+   - Incluye pruebas para nuevas características.
+   - Documenta tu código adecuadamente.
 
 ### Gobernanza del Proyecto
 
 ColGit es propiedad y está mantenido por YouBriefSoft. Como propietario del proyecto, YouBriefSoft:
 
-- Mantiene el control final sobre la dirección del proyecto
-- Aprueba o rechaza contribuciones
-- Gestiona los lanzamientos y versiones
-- Determina la hoja de ruta del proyecto
-
+- Mantiene el control final sobre la dirección del proyecto.
+- Aprueba o rechaza contribuciones.
+- Gestiona los lanzamientos y versiones.
+- Determina la hoja de ruta del proyecto.
 
 ## 📄 Licencia
 
@@ -111,7 +102,6 @@ Esto significa que:
 2. Debes mantener el aviso de derechos de autor y reconocimiento al autor original.
 3. **No puedes vender** este software sin autorización explícita del propietario de los derechos.
 
-
 Para uso comercial o para obtener una licencia que permita la venta de este software, contacta con el autor en [contacto@youbriefsoft.com](mailto:contacto@youbriefsoft.com).
 
 ### Licencias Comerciales
@@ -122,25 +112,12 @@ Para empresas que deseen utilizar ColGit en un contexto comercial o integrar Col
 2. **Licencia Empresarial**: Incluye soporte prioritario, actualizaciones garantizadas y personalizaciones.
 3. **Licencia OEM**: Para integrar ColGit en tu propio producto de software.
 
-
 Para más información sobre licencias comerciales, contacta con [licencias@youbriefsoft.com](mailto:licencias@youbriefsoft.com).
 
-## 📞 Contacto
-
-- **Sitio Web**: [youbriefsoft.com](https://youbriefsoft.com)
-- **Email**: [contacto@youbriefsoft.com](mailto:contacto@youbriefsoft.com)
-- **Twitter**: [@YouBriefSoft](https://twitter.com/YouBriefSoft)
-- **GitHub1**: [github.com/YouBriefSoft](https://github.com/YouBriefSoft)
-- **GitHub2**: [github.com/Charlyjs](https://github.com/Charly-Js)
 ## 📦 Instalación
 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/colgit.git
    cd colgit
-
-## credenciales de prueba 
-
-- **usuario** : [clogit]
-- **contraseña**:[contraseña2024]
-
+   ```
