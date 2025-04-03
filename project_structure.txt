@@ -1,0 +1,57 @@
+ColGit/
+├── pages/
+│   ├── api/
+│   │   └── debug/
+│   │       └── route.ts
+│   ├── calendar/
+│   │   └── page.tsx
+│   ├── debug/
+│   │   └── page.tsx
+│   ├── documentation/
+│   │   └── page.tsx
+│   ├── forgot-password/
+│   │   └── page.tsx
+│   ├── login/
+│   │   └── page.tsx
+│   ├── profile/
+│   │   └── page.tsx
+│   ├── register/
+│   │   └── page.tsx
+│   ├── repository/
+│   │   └── page.tsx
+│   ├── settings/
+│   │   └── page.tsx
+│   ├── upload/
+│   │   └── page.tsx
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── ui/
+│   │   └── [shadcn components]
+│   ├── activity-heatmap.tsx
+│   ├── ai-debugger.tsx
+│   ├── authenticated-layout.tsx
+│   ├── file-upload.tsx
+│   ├── layout.tsx
+│   ├── main-nav.tsx
+│   ├── mode-toggle.tsx
+│   ├── online-indicator.tsx
+│   ├── repository-manager.tsx
+│   └── user-nav.tsx
+├── lib/
+│   └── theme-config.ts
+├── public/
+│   └── [public assets]
+├── utils/
+│   ├── auth-context.tsx
+│   ├── translations.ts
+│   └── use-translation.tsx
+├── .gitignore
+├── LICENSE
+├── README.md
+├── next.config.js
+├── package.json
+├── tailwind.config.js
+└── tsconfig.json
+
